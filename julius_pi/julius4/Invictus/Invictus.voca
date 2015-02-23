@@ -1,0 +1,119 @@
+% NS_B
+<s>      sil
+
+% NS_E
+</s>    sil
+
+% DIGIT
+FIVE       f ay v
+FOUR       f ao r
+NINE       n ay n
+EIGHT      ey t
+OH         ow
+ONE        w ah n
+SEVEN      s eh v ax n
+SIX        s ih k s
+THREE      th r iy
+TWO        t uw
+ZERO       z ih r ow
+
+% SIZE
+LARGE      l aa r jh
+MEDIUM     m iy dx iy ax m
+SMALL      s m ao l
+
+% TEMP
+HOT         hh aa t
+HOT         hh ao t
+COLD	    k ow l d
+ICE	    ay s 
+
+%  TYPE
+LEMON       l eh m ax n
+MILK	    m ih l k
+ICED	    ay s t
+RED	    r eh d
+GREEN	    g r iy n
+HERBAL      er b ax l
+HERBAL      hh er b ax l
+MINT	    m ih n t
+LIME	    l ay m
+ORANGE      ao r ax n jh
+APPLE       ae p ax l
+PINEAPPLE   p ay n ae p ax l
+GRAPE       g r ey p
+GRAPEFRUIT  g r ey p f r uw t
+CHOCOLATE   ch ao k l ax t
+VANILLA     v ax n ih l ax
+STRAWBERRY  s t r ao b eh r iy
+EARL-GREY   er l  g r ey
+FRESHLY-BREWED     f r eh sh l iy  b r uw d
+CARAMEL     k eh r ax m ax l
+
+
+% DRINKNAME
+TEA	    t iy
+COFFEE	    k aa f iy 
+LATTE       l ae t ey
+MILK	    m ih l k
+CHOCOLATE   ch ao k l ax t
+CAPPUCCINO  k ae p uw ch iy n ow
+JUICE       jh uw s
+LEMONADE    l eh m ax n ey d
+COKE        k ow k
+SPRITE      s p r ay t
+FANTA       f aa n t ax
+PEPSI       p eh p s iy
+MILKSHAKE   m ih l k sh ey k
+
+
+% WITH
+WITH	    w ih dh
+
+% ADV
+MORE	    m ao
+MORE	    m ao r
+LESS        l ax s
+NORMAL      n ao r m ax l
+
+% ADV2
+MORE	    m ao
+MORE	    m ao r
+LESS        l ax s
+NORMAL      n ao r m ax l
+
+% ADV3
+MORE	    m ao
+MORE	    m ao r
+LESS        l ax s
+NORMAL      n ao r m ax l
+
+% ICE
+ICE	    ay s
+
+% AND
+AND	    ae n d
+AND	    ax n
+AND	    ax n d
+
+% SUGAR
+SUGAR	    sh uh g er
+
+% MILK
+MILK	    m ih l k
+ 
+% FOOD
+HOTDOG      hh aa t d ao g
+HAMBURGER   hh ae m b er g er
+SPAGHETTI   s p ax g eh t iy
+SALAD       s ae l ax d
+SANDWICH    s ae n d w ih ch
+SANDWICH    s ae n w iy ch
+BURGER      b er g er
+DONUT       d ow n ah t
+BISCUIT     b ih s k ax t
+COOKIE      k uh k iy
+MUFFIN      m ah f ax n
+ROLL        r ow l
+CAKE        k ey k
+
