@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+<xbel version="1.0" xmlns:midori="http://www.twotoasts.de">
+<info>
+<metadata owner="http://www.twotoasts.de"/>
+</info>
+<bookmark href="https://docs.python.org/2/library/subprocess.html#frequently-used-arguments">
+<title>‪17.1. subprocess — Subprocess management — Python v2.7.8 documentation</title>
+<info>
+<metadata midori:icon="https://docs.python.org/2/_static/py.png" midori:history-step="2" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://docs.python.org/2/library/subprocess.html">
+<title>‪17.1. subprocess — Subprocess management — Python v2.7.8 documentation</title>
+<info>
+<metadata midori:icon="https://docs.python.org/2/_static/py.png" midori:history-step="2" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://jimmyg.org/blog/2009/working-with-python-subprocess.html#introducing-subprocess">
+<title>‪http://jimmyg.org/blog/2009/working-with-python-subprocess.html#introducing-subprocess</title>
+<info>
+<metadata midori:icon="text-html" midori:history-step="1" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://www.google.com/search?q=change%20layout%20of%20button%20when%20pressed%20python&amp;gws_rd=ssl#q=button++when+pressed+python">
+<title>‪https://www.google.com/search?q=change%20layout%20of%20button%20when%20pressed%20python&amp;gws_rd=ssl#q=button++when+pressed+python</title>
+<info>
+<metadata midori:icon="text-html" midori:history-step="1" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://stackoverflow.com/questions/12566840/update-wx-bitmapbutton">
+<title>‪wxpython - Update wx.BitmapButton? - Stack Overflow</title>
+<info>
+<metadata midori:icon="http://cdn.sstatic.net/stackoverflow/img/favicon.ico?v=038622610830" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://pymotw.com/2/subprocess/">
+<title>‪subprocess – Work with additional processes - Python Module of the Week</title>
+<info>
+<metadata midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://thesesergio.wordpress.com/2013/06/18/subprocess-for-dummies/">
+<title>‪Subprocess for dummies | thesesergio</title>
+<info>
+<metadata midori:icon="http://s2.wp.com/i/favicon.ico?m=1405977958g" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://www.google.com/search?q=double%20click%20button%20stop%20thread%20python&amp;gws_rd=ssl#q=subprocess+python+examples">
+<title>‪subprocess python examples - Google Search</title>
+<info>
+<metadata midori:dont-write-history="1" midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://python.todaysummary.com/q_python_37897.html">
+<title>‪Python: How to pause or stop a long-running function via GUI control? - python.todaysummary.com</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://python.todaysummary.com/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://stackoverflow.com/questions/13595076/why-does-os-killpid-0-return-none-although-process-has-terminated">
+<title>‪python - Why does os.kill(pid, 0) return None although process has terminated? - Stack Overflow</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://cdn.sstatic.net/stackoverflow/img/favicon.ico?v=038622610830" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+</xbel>

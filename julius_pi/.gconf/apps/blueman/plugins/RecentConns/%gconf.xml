@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="max_items" mtime="1407900544" type="int" value="6"/>
+	<entry name="recent_connections" mtime="1407900684" type="string">
+		<stringvalue>eNo1j8tOwkAYRqsUKvWCeFfUsNSFpASJODtEYwwJGzORjTEDnZSJpeWbmZpgYmIX9ZV8Ed/CN3Dl4GX7/yffyXmd71r3sF4wd0SdQIkgYiHMjTqKyycx5MgN/UGi3FstRRS4sPsly7JiGdQGYcKfazfRJNHIZyikcKjDfDbRXGJhZPfLBvQ8Um+SVoM0LonXJs0zFDO4KRZnqC+5Ulj6Qzsd0mnOIK9Ozlvk9ArLGVZSlGiehYIprBqwYsALI9ZxrEfVOyF5aDaqXT4dxEz6KGdYS7FO82Oh+RgbPWprMebYvG5/fL3ncp+aFnz+E7bVo8VhHEUPTAYK27+ZbSnZ1MXOcYpdagvzx57RrhitmJWePP6bKhn2Uxwk7A2HtW8uFWTN</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,5 @@
+sentence1: <s> OH MILK MILK </s>
+wseq1: 0 2 5 6 1
+phseq1: sil | ow | m ih l k | m ih l k | sil
+cmscore1: 1.000 1.000 0.000 0.553 1.000
+score1: -13532.902344

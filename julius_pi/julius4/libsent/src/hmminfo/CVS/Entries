@@ -1,0 +1,26 @@
+/cdhmm.c/1.5/Thu Jun 20 17:14:21 2013//
+/cdset.c/1.8/Thu Jun 20 17:14:21 2013//
+/check_hmm_restriction.c/1.5/Thu Jun 20 17:14:21 2013//
+/check_hmmtype.c/1.6/Thu Jun 20 17:14:21 2013//
+/chkhmmlist.c/1.7/Thu Jun 20 17:14:21 2013//
+/guess_cdHMM.c/1.5/Thu Jun 20 17:14:21 2013//
+/hmm_lookup.c/1.7/Thu Jun 20 17:14:21 2013//
+/init_phmm.c/1.8/Thu Jun 20 17:14:21 2013//
+/put_htkdata_info.c/1.9/Wed Dec 18 03:55:21 2013//
+/rdhmmdef.c/1.9/Wed Dec 18 03:55:21 2013//
+/rdhmmdef_data.c/1.6/Thu Jun 20 17:14:21 2013//
+/rdhmmdef_dens.c/1.6/Thu Jun 20 17:14:21 2013//
+/rdhmmdef_mpdf.c/1.5/Thu Jun 20 17:14:21 2013//
+/rdhmmdef_options.c/1.6/Thu Jun 20 17:14:21 2013//
+/rdhmmdef_regtree.c/1.5/Thu Jun 20 17:14:21 2013//
+/rdhmmdef_state.c/1.8/Wed Dec 18 03:55:21 2013//
+/rdhmmdef_streamweight.c/1.5/Thu Jun 20 17:14:21 2013//
+/rdhmmdef_tiedmix.c/1.7/Thu Jun 20 17:14:21 2013//
+/rdhmmdef_trans.c/1.6/Thu Jun 20 17:14:21 2013//
+/rdhmmdef_var.c/1.6/Thu Jun 20 17:14:21 2013//
+/rdhmmlist.c/1.6/Thu Jun 20 17:14:21 2013//
+/read_binhmm.c/1.11/Wed Dec 18 03:55:21 2013//
+/read_binhmmlist.c/1.5/Thu Jun 20 17:14:21 2013//
+/write_binhmm.c/1.9/Wed Dec 18 03:55:21 2013//
+/write_binhmmlist.c/1.5/Thu Jun 20 17:14:21 2013//
+D

@@ -1,0 +1,18 @@
+/adin.h/1.15/Wed Dec 18 03:55:21 2013//
+/config.h.in/1.11/Fri Jun 21 05:24:26 2013//
+/dfa.h/1.8/Thu Jun 20 17:14:20 2013//
+/hmm.h/1.7/Wed Dec 18 03:55:21 2013//
+/hmm_calc.h/1.11/Wed Dec 18 03:55:21 2013//
+/htk_defs.h/1.6/Thu Jun 20 17:14:20 2013//
+/htk_hmm.h/1.12/Wed Dec 18 03:55:21 2013//
+/htk_param.h/1.7/Wed Dec 18 03:55:21 2013//
+/machines.h/1.6/Thu Jun 20 17:14:20 2013//
+/mfcc.h/1.8/Thu Dec  5 03:43:14 2013//
+/ngram2.h/1.13/Thu Jun 20 17:14:20 2013//
+/ptree.h/1.9/Thu Jun 20 17:14:20 2013//
+/speech.h/1.6/Thu Jun 20 17:14:20 2013//
+/stddefs.h/1.9/Thu Jun 20 17:14:20 2013//
+/tcpip.h/1.7/Wed Dec 18 03:55:21 2013//
+/util.h/1.10/Thu Jun 20 17:14:20 2013//
+/vocabulary.h/1.12/Thu Jun 20 17:14:20 2013//
+D

@@ -1,0 +1,47 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[FIVE]	f ay v
+2	[FOUR]	f ao r
+2	[NINE]	n ay n
+2	[EIGHT]	ey t
+2	[OH]	ow
+2	[ONE]	w ah n
+2	[SEVEN]	s eh v ax n
+2	[SIX]	s ih k s
+2	[THREE]	th r iy
+2	[TWO]	t uw
+2	[ZERO]	z ih r ow
+3	[LARGE]	l aa r jh
+3	[MEDIUM]	m iy dx iy ax m
+3	[SMALL]	s m ao l
+4	[HOT]	hh aa t
+4	[HOT]	hh ao t
+4	[COLD]	k ow l d
+5	[LEMON]	l eh m ax n
+5	[MILK]	m ih l k
+5	[ICED]	ay s t
+5	[RED]	r eh d
+5	[GREEN]	g r iy n
+5	[HERBAL]	er b ax l
+5	[HERBAL]	hh er b ax l
+5	[MINT]	m ih n t
+5	[LIME]	l ay m
+6	[TEA]	t iy
+6	[COFFEE]	k aa f iy
+6	[LATTE]	l ae t ey
+7	[WITH]	w ih dh
+8	[MORE]	m ao
+8	[MORE]	m ao r
+8	[LESS]	l ax s
+8	[NORMAL]	n ao r m ax l
+9	[ICE]	ay s
+10	[AND]	ae n d
+10	[AND]	ax n
+10	[AND]	ax n d
+11	[SUGAR]	sh uh g er
+12	[HOTDOG]	hh aa t d ao g
+12	[HAMBURGER]	hh ae m b er g er
+12	[SPAGHETTI]	s p ax g eh t iy
+12	[SALAD]	s ae l ax d
+12	[SANDWICH]	s ae n d w ih ch
+12	[SANDWICH]	s ae n w iy ch

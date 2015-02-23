@@ -1,0 +1,8 @@
+pcm.!default {
+        type hw
+        card 0
+        }
+cr1.!default {
+        type hw
+        card 0
+        }

@@ -1,0 +1,10 @@
+#!/usr/bin/env python2 imporclass MyFrame(wx.Frame):
+   4     """ We simply derive a new class of Frame. """
+   5     def __init__(self, parent, title):
+   6         wx.Frame.__init__(self, parent, title=title, size=(200,100))
+   7         self.control = wx.TextCtrl(self, style=wx.TE_MULTILINE)
+   8         self.Show(True)
+   9 
+  10 app = wx.App(False)
+  11 frame = MyFrame(None, 'Small editor')
+  12 app.MainLoop()

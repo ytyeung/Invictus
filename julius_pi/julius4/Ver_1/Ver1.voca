@@ -1,0 +1,75 @@
+% NS_B
+<s>      sil
+
+% NS_E
+</s>    sil
+
+% DIGIT
+FIVE       f ay v
+FOUR       f ao r
+NINE       n ay n
+EIGHT      ey t
+OH         ow
+ONE        w ah n
+SEVEN      s eh v ax n
+SIX        s ih k s
+THREE      th r iy
+TWO        t uw
+ZERO       z ih r ow
+
+% SIZE
+LARGE      l aa r jh
+MEDIUM     m iy dx iy ax m
+SMALL      s m ao l
+
+% TEMP
+HOT         hh aa t
+HOT         hh ao t
+COLD	    k ow l d
+
+%  TYPE
+LEMON       l eh m ax n
+MILK	    m ih l k
+ICED	    ay s t
+RED	    r eh d
+GREEN	    g r iy n
+HERBAL      er b ax l
+HERBAL      hh er b ax l
+MINT	    m ih n t
+LIME	    l ay m
+
+
+% DRINKNAME
+TEA	    t iy
+COFFEE	    k aa f iy 
+LATTE       l ae t ey
+
+% WITH
+WITH	    w ih dh
+
+% ADV
+MORE	    m ao
+MORE	    m ao r
+LESS        l ax s
+NORMAL      n ao r m ax l
+
+% ICE
+ICE	    ay s
+
+% AND
+AND	    ae n d
+AND	    ax n
+AND	    ax n d
+
+% SUGAR
+SUGAR	    sh uh g er
+ 
+% FOOD
+HOTDOG      hh aa t d ao g
+HAMBURGER   hh ae m b er g er
+SPAGHETTI   s p ax g eh t iy
+SALAD       s ae l ax d
+SANDWICH    s ae n d w ih ch
+SANDWICH    s ae n w iy ch
+
+

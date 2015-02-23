@@ -1,0 +1,60 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[一]	I_j F_at
+2	[兩]	I_l F_oeng
+2	[三]	I_s F_aam
+2	[四]	I_s F_ei
+2	[五]	I_null F_ng
+2	[六]	I_l F_uk
+2	[七]	I_c F_at
+2	[八]	I_b F_aat
+2	[九]	I_g F_au
+2	[十]	I_s F_ap
+3	[杯]	I_b F_ui
+3	[個]	I_g F_o
+4	[細]	I_s F_ai
+4	[小]	I_s F_iu
+4	[中]	I_z F_ung
+4	[大]	I_d F_aai
+5	[凍]	I_d F_ung
+5	[熱]	I_j F_it
+6	[檸]	I_n F_ing
+6	[檸檬]	I_n F_ing I_m F_ung
+6	[奶]	I_n F_aai
+6	[齋]	I_z F_aai
+6	[紅]	I_h F_ung
+7	[咖啡]	I_k F_aa I_f F_ei
+7	[啡]	I_f F_ei
+7	[茶]	I_c F_aa
+7	[茶走]	I_c F_aa I_z F_au
+7	[水]	I_s F_eoi
+7	[鴛鴦]	I_j F_in I_j F_oeng
+7	[樂]	I_l F_ok
+7	[可樂]	I_h F_o I_l F_ok
+7	[賓]	I_b F_an
+7	[利賓納]	I_l F_ei I_b F_an I_n F_aap
+7	[蜜]	I_m F_at
+7	[好立克]	I_h F_ou I_l F_aap I_h F_ak
+7	[阿華田]	I_null F_o I_w F_aa I_t F_in
+7	[朱古力]	I_z F_yu I_g F_u I_n F_ik
+7	[朱古力]	I_z F_yu I_g F_u I_l F_ik
+7	[雪碧]	I_s F_yut I_b F_ik
+7	[芬達]	I_f F_an I_d F_aat
+8	[多]	I_d F_o
+8	[少]	I_s F_iu
+8	[走]	I_z F_au
+8	[飛]	I_f F_ei
+9	[多]	I_d F_o
+9	[少]	I_s F_iu
+9	[走]	I_z F_au
+9	[飛]	I_f F_ei
+10	[多]	I_d F_o
+10	[少]	I_s F_iu
+10	[走]	I_z F_au
+10	[飛]	I_f F_ei
+11	[冰]	I_b F_ing
+11	[雪]	I_s F_yut
+12	[糖]	I_t F_ong
+12	[甜]	I_t F_im
+12	[砂]	I_s F_aa
+13	[奶]	I_n F_aai

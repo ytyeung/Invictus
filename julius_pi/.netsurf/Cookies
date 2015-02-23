@@ -1,0 +1,17 @@
+# >/home/pi//.netsurf//Cookies
+# NetSurf cookies file.
+#
+# Lines starting with a '#' are comments, blank lines are ignored.
+#
+# All lines prior to "Version:	101" are discarded.
+#
+# Version	Domain	Domain from Set-Cookie	Path	Path from Set-Cookie	Secure	Expires	Last used	No destroy	Name	Value	Value was quoted	Scheme	URL	Comment
+Version:	101
+0	.google.com.hk	1	/	1	0	1461728404	1398656410	0	PREF	ID=5985d220b7d45ed2:U=8f83e2c9f1a19f58:FF=0:TM=1398656384:LM=1398656404:S=h8ATqkGcvosjV_2d	0	unused	unused	
+0	.google.com.hk	1	/	1	0	1414467604	1398656410	0	NID	67=Hc0ZDoe61H6Ycdc7ipEJgLsoMuFoxdWGCsdd2WQ56IRRLPzsEdY9O5eSgYOpSndf6eWBj5XGVy-P_-N_f0_CZdAjQPbrPgwsJEfwQHcuGQewyYKWPnmW3X1PfOhht26p	0	unused	unused	
+0	.google.co.uk	1	/	1	0	1461728980	1398657131	0	PREF	ID=20d18d87a5b83638:U=3f837df9a6dfe726:FF=0:TM=1398656760:LM=1398656980:S=0eR4-RTaKdgEycuY	0	unused	unused	
+0	.google.co.uk	1	/	1	0	1414468180	1398657131	0	NID	67=qd0QUUSyWM7KuhUQITnsknAW6spxngJdFnqakMnpm1GaaBdvgnGZiwqHtPktiF0dgmsAYc75Jp9L9_Kt4Gx1wdhDusU-1NjjDuaKuTjxCPqypTM6faECewHliVa52C1c	0	unused	unused	
+0	.google.com	1	/	1	0	1461295146	1399022347	0	PREF	ID=d6eddbdd288f08fc:FF=0:TM=1398223146:LM=1398223146:S=FEOYsz8tZUFFZWbH	0	unused	unused	
+0	.google.com	1	/	1	0	1414034346	1399022347	0	NID	67=fuGEa0vWG8ObHBkx1ZH5VUCH30Btym0gv5IjdJZ7rDAK7r0Ww_SEHuq7w6fmylwRDGyBC79fv_ci52RX5Ypsxg2AoVCUuo4445_8rLxjxRacFzyS2F8KNiZZ10ScNc7R	0	unused	unused	
+0	.youtube.com	1	/	1	0	1419694427	1398656490	0	PREF	f1=50000000	0	unused	unused	
+0	.youtube.com	1	/	1	0	1419694427	1398656490	0	VISITOR_INFO1_LIVE	UKBoE110g2U	0	unused	unused	

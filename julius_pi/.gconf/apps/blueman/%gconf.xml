@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="window_posy" mtime="1407982357" type="int" value="196"/>
+	<entry name="window_posx" mtime="1407982357" type="int" value="260"/>
+	<entry name="window_width" mtime="1407982357" type="int" value="500"/>
+	<entry name="window_height" mtime="1407982357" type="int" value="350"/>
+	<entry name="AppletPlugin" mtime="1407900539" type="list" ltype="string">
+	</entry>
+</gconf>

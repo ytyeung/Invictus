@@ -1,0 +1,15 @@
+/Makefile.in/1.6/Thu Jun 20 17:14:18 2013//
+/dfa.c/1.6/Thu Jun 20 17:14:18 2013//
+/dfa.h/1.5/Thu Jun 20 17:14:18 2013//
+/gram.l/1.1.1.1/Fri Sep 28 02:50:55 2007//
+/gram.tab.c/1.1.1.1/Fri Sep 28 02:50:55 2007//
+/gram.y/1.4/Thu Jun 20 17:14:18 2013//
+/lex.yy.c/1.7/Thu Jun 20 17:14:18 2013//
+/main.c/1.5/Thu Jun 20 17:14:18 2013//
+/mkfa.h/1.5/Thu Jun 20 17:14:18 2013//
+/nfa.c/1.5/Thu Jun 20 17:14:18 2013//
+/nfa.h/1.5/Thu Jun 20 17:14:18 2013//
+/triplet.c/1.6/Thu Jun 20 17:14:18 2013//
+/triplet.h/1.5/Thu Jun 20 17:14:18 2013//
+/voca.c/1.5/Thu Jun 20 17:14:18 2013//
+D
